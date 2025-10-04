@@ -15,7 +15,7 @@ For Header:-              For main: -
                             11. <thead>
                             12. <tr>
                             13. <th>
-                            14. <tbody
+                            14. <tbody>
                             15. <td>
                             16. <form>
                             17. <label>
