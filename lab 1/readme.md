@@ -1,15 +1,25 @@
-Hey there! Welcome to my portfolio project.
-This is a simple one-page website that I built to learn and practice HTML while creating something useful for myself
+Hello everyone, this is the project to make the portfolio website.  
+The tags which are used in making of this website are: -
 
-Tags Used
-Here are the main HTML tags I practiced with:
-Header: <header>, <h1>, <nav>, <a>, <ul>, <li>
-Main: <main>, <section>, <h2>, <p>, <a>, <img>, <ul>, <li>, <br>
-Table: <table>, <thead>, <tr>, <th>, <tbody>, <td>
-Form: <form>, <label>, <input>, <textarea>
+For Header:-              For main: -
+  1. <header>               1. <main>
+  2. <h1>                   2. <section> 
+  3. <nav>                  3. <h2>
+  4. <a>                    4. <p>
+  5. <ul>                   5. <a>
+  6. <li>                   6. <img>
+                            7. <ul>
+                            8. <li>
+                            9. <br>
+                            10. <table>
+                            11. <thead>
+                            12. <tr>
+                            13. <th>
+                            14. <tbody
+                            15. <td>
+                            16. <form>
+                            17. <label>
+                            18. <input>
+                            19. <textarea>
 
-Why I Made This
-The goal was simple:
-👉 Learn HTML.
-👉 Build a portfolio I can improve later.
-👉 Test my knowledge by putting everything into one project.
+The purpose to make this website is to learn HTML and make a portfolio website and test our knowledge about HTML.
